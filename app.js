@@ -4,7 +4,7 @@ const dotenv = require("dotenv")
 const path = require("path")
 const res = require("express/lib/response")
 dotenv.config()
-const PORT = process.env.DB_PORT||3000
+const PORT = 3006
 const dbcreate  = require("./mydata")
 
 app.use(express.json())

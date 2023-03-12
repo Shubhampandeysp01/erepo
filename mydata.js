@@ -28,6 +28,7 @@ const createinfo = (req,res) => {
 
     const floor = req.body.floor || null;
     const society = req.body.society || null;
+    const contact = req.body.contact || null;
     
     pool.query(
         "INSERT INTO flatinfo (bhk, price, area, society, address, floor, available, contact) VALUES ($1,$2,$3,$4,$5,$6,$7, $8) RETURNING * ",
