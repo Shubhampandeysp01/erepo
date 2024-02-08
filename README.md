@@ -4,6 +4,7 @@ This is a simple Real Estate website built using Express.js, Node.js, React, and
 
 Features
 
+
 Create: Add new real estate listings to the database.
 
 Read: View existing real estate listings with details.
@@ -22,3 +23,8 @@ Backend: Express.js, Node.js
 Database: PostgreSQL
 
 Deployment: Vercel (for the frontend)
+
+![add](https://github.com/Shubhampandeysp01/erepo/assets/44943467/e4912691-cb1b-446d-b8ae-484ccc2063ec)
+![infobar](https://github.com/Shubhampandeysp01/erepo/assets/44943467/7988b1ad-69a8-47fb-a096-92119309ba79)
+
+
